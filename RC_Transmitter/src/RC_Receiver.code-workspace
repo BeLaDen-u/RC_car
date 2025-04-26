@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../RC_Receiver"
+		},
+		{
+			"name": "RC_Transmitter",
+			"path": ".."
+		},
+		{
+			"name": "MAC_adress",
+			"path": "../../MAC_adress"
+		},
+		{
+			"name": "Joystick_Calibration",
+			"path": "../../Joystick_Calibration"
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools-extension-pack"
+		]
+	}
+}
